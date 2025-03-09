@@ -1,1 +1,2 @@
 # Loan-Eligibility-Prediction-Using-Regression-Models-in-Python
+This project focuses on predicting loan eligibility using Logistic regression models in Python. By leveraging various regression techniques, we aim to build a robust model that can accurately determine the likelihood of loan approval based on applicant data. The project includes data preprocessing, feature selection, model training, and evaluation to ensure reliable predictions.
